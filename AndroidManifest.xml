@@ -1,0 +1,16 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="arabshentai">
+
+    <application>
+        <meta-data
+            android:name="name"
+            android:value="Arab Shentai" />
+        <meta-data
+            android:name="version"
+            android:value="1.0" />
+        <meta-data
+            android:name="description"
+            android:value="A Tachiyomi extension for Arab Shentai." />
+    </application>
+
+</manifest>
